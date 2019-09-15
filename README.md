@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="380px" src="https://external-preview.redd.it/WSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png?auto=webp&s=a6abc62ecb4a08f2bf2f287b79c9bd93006791d1">
+  <img width="280px" src="https://external-preview.redd.it/WSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png?auto=webp&s=a6abc62ecb4a08f2bf2f287b79c9bd93006791d1">
 </div>
 
 # Visual Studio Code Config
 
+![VSCode](https://i.ibb.co/925hCC3/vscode.png)
+
 This project contains all my personal visual studio code settings. If you like my configuration I offer you a small guide to have my configuration in your visual studio code. 
 
 If you decide to install my configuration keep in mind that you will also install the shortcuts that I use. This means that they can diverge from the default settings. I encourage you to research all the shortcuts I use and customize them for you.
-
-![VSCode](https://i.ibb.co/925hCC3/vscode.png)
 
 
 # Table of Contents
