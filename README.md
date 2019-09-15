@@ -5,9 +5,7 @@ This project contains all the settings of my visual studio code. If you like my 
 I configured everyone of the shortcuts for myself. This means if you install my setup you are going to have the same shortcuts that I use. For this reason I encourage you to investigate all the shortcuts and customize them for yourself.
 
 # Table of Contents
-
-# visual-studio-code-config
-Configuration of my visual studio code
+- [Installation](#installation)
 - [Extensions](#extensions)
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -56,11 +54,18 @@ Configuration of my visual studio code
   - [TODO Highlight](#todo-highlight)
   - [YAML](#yaml)
 
-Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
-
 # Installation
 
-Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
+### 1. Install [Fira Code](https://www.fontsquirrel.com/fonts/fira-code) font.
+
+### 2. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension
+
+### 3.  Go to Setting sync and make click in 'Download Public Gist'
+
+### 4.  Paste the following gist id:
+> 51ac627d4feac30a52c9df586fa500b3
+
+### 5.  Restart visual studio code
 
 # Extensions
 
