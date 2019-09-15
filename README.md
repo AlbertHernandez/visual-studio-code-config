@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="280px" src="https://external-preview.redd.it/WSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png?auto=webp&s=a6abc62ecb4a08f2bf2f287b79c9bd93006791d1">
-</div>
-
 # Visual Studio Code Config
 
 ![VSCode](https://i.ibb.co/925hCC3/vscode.png)
