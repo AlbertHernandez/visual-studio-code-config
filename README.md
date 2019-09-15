@@ -59,14 +59,14 @@ I configured everyone of the shortcuts for myself. This means if you install my 
 
 ### 1. Install [Fira Code](https://www.fontsquirrel.com/fonts/fira-code) font.
 
-### 2. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension
+### 2. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 
 ### 3.  Go to Setting sync and make click in 'Download Public Gist'
 
 ### 4.  Paste the following gist id:
 > 51ac627d4feac30a52c9df586fa500b3
 
-### 5.  Restart visual studio code
+### 5.  Restart visual studio code.
 
 # Extensions
 
