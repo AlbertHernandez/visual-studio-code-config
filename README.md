@@ -4,6 +4,9 @@ This project contains all my personal visual studio code settings. If you like m
 
 If you decide to install my configuration keep in mind that you will also install the shortcuts that I use. This means that they can diverge from the default settings. I encourage you to research all the shortcuts I use and customize them for you.
 
+![VSCode](https://i.ibb.co/925hCC3/vscode.png)
+
+
 # Table of Contents
 - [Installation](#installation)
 - [Extensions](#extensions)
