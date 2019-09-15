@@ -61,9 +61,9 @@ If you decide to install my configuration keep in mind that you will also instal
 
 ### 2. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 
-### 3.  Go to Setting sync and make click in 'Download Public Gist'
+### 3.  Go to setting sync extension and click 'Download Public Gist'
 
-### 4.  Paste the following gist id:
+### 4.  Paste the following Gist:
 > 51ac627d4feac30a52c9df586fa500b3
 
 ### 5.  Restart visual studio code.
