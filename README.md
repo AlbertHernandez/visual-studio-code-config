@@ -1,8 +1,8 @@
 # Visual Studio Code Config
 
-This project contains all the settings of my visual studio code. If you like my configuration here I share with you a easy way for download and install in your own visual studio code.
+This project contains all my personal visual studio code settings. If you like my configuration I offer you a small guide to have my configuration in your visual studio code. 
 
-I configured everyone of the shortcuts for myself. This means if you install my setup you are going to have the same shortcuts that I use. For this reason I encourage you to investigate all the shortcuts and customize them for yourself.
+If you decide to install my configuration keep in mind that you will also install the shortcuts that I use. This means that they can diverge from the default settings. I encourage you to research all the shortcuts I use and customize them for you.
 
 # Table of Contents
 - [Installation](#installation)
