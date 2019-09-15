@@ -10,7 +10,7 @@ I configured everyone of the shortcuts for myself. This means if you install my 
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
   - [Babel ES6/ES7](#auto-rename-tag)
-  - [Beautify css/sass/scss/less](#beautify-css/sass/scss/less)
+  - [Beautify css sass scss less](#beautify-css-sass-scss-less)
   - [Better Haml](#better-haml)
   - [Bookmarks](#bookmarks)
   - [Bracket Jumper](#bracket-jumper)
@@ -25,14 +25,15 @@ I configured everyone of the shortcuts for myself. This means if you install my 
   - [DotENV](#dotenv)
   - [Duplicate Action](#duplicate-action)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
-  - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-react-redux-graph-ql-react-native-snippets)
+  - [ES7 React Redux GraphQL React Native snippets](#es7-react-redux-graphql-react-native-snippets)
+  <!-- - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-react-/redux-/graphql-/react-native-snippets) -->
   - [ESLint](#eslint)
   - [Flow Language Support](#flow-language-support)
   - [gitignore](#gitignore)
   - [Hightlight selections vscode](#hightlight-selections-vscode)
   - [HTML Snippets](#html-snippets)
   - [Import Cost](#import-cost)
-  - [JavaScript Booster](#java-script-booster)
+  - [JavaScript Booster](#javascript-booster)
   - [Javascript Console Utils](#javascript-console-utils)
   - [Jest Snippets](#jest-snippets)
   - [Jump to Test](#jump-to-test)
@@ -97,7 +98,7 @@ I configured everyone of the shortcuts for myself. This means if you install my 
 
 
 
-## [Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
+## [Beautify css sass scss less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
 
 > Beautify css, sass and less code (extension for Visual Studio Code).
 
@@ -210,7 +211,7 @@ I configured everyone of the shortcuts for myself. This means if you install my 
 
 > Editor Config for VS Code.
 
-## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+## [ES7 React Redux GraphQL React Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 > Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 
@@ -323,7 +324,7 @@ I configured everyone of the shortcuts for myself. This means if you install my 
 
 
 
-## [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+## [Prettier Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 > VS Code plugin for prettier/prettier.
 
